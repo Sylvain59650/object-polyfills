@@ -14,7 +14,6 @@
 [![hits](http://hits.dwyl.com/Sylvain59650/object-polyfills.svg)](http://hits.dwyl.com/Sylvain59650/object-polyfills)
 </div>
 
-
  <div class="Note" style="color:orange;font-style:italic">
  
   The lastest version of this document is available on [Github > object-polyfills](https://github.com/Sylvain59650/object-polyfills/blob/master/README.md)
